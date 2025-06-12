@@ -32,6 +32,8 @@
     "@types/otp-generator": "^4.0.2",
     "axios": "^1.9.0",
     "bcrypt": "^6.0.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.2",
     "cookie-parser": "^1.4.7",
     "ioredis": "^5.6.1",
     "otp-generator": "^4.0.1",
