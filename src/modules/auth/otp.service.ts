@@ -77,5 +77,4 @@ class OtpService {
     await this.redisService.delKey(key);
   }
 }
-
 export default OtpService;
